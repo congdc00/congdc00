@@ -5,3 +5,4 @@ Contact me
 #️⃣ [Linked](https://www.linkedin.com/in/dinhchicong/)
 #️⃣ [Facebook](https://www.facebook.com/dinhchicongf9)
 #️⃣ [Twitter](https://twitter.com/dinhchicongf9)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=congdinhchi&theme=great-gatsby&show_icons=true)
