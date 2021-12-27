@@ -1,5 +1,5 @@
 # 👋 Bello!
-I'm a student in HUST, interested in AI and Machine Learning. I like to build things, you can find everything that I build here on my Github account
+I'm a student in HUST, interested in AI and Machine Learning. I like to build things, you can find everything that I build here on my Github account/
 Contact me
 #️⃣ [Kaggle](https://www.kaggle.com/dinhchicong)
 #️⃣ [Linked](https://www.linkedin.com/in/dinhchicong/)
