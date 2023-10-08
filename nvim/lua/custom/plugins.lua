@@ -7,7 +7,7 @@ local plugins = {
       local dapui = require("dapui")
       dapui.setup()
       dap.listeners.after.event_initialized["dapui_config"] = function()
-        dapui.open()
+        dapui.open()  
       end
       dap.listeners.before.event_terminated["dapui_config"] = function()
         dapui.close()
@@ -47,11 +47,11 @@ local plugins = {
     "williamboman/mason.nvim",
     opts = {
       ensure_installed = {
-        "black",
-        "debugpy",
+        "black", # language server
+          "debugpy", # Debug python
         "mypy",
         "ruff",
-        "pyright",
+        "pyright", # Auto complete python
       },
     },
   },
