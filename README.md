@@ -9,3 +9,4 @@ Contact me
 #️⃣ [Linked](https://www.linkedin.com/in/dinhchicong/)  
 #️⃣ [Facebook](https://www.facebook.com/dinhchicongf9)  
 #️⃣ [Twitter](https://twitter.com/dinhchicongf9)  
+[Huggingface](https://huggingface.co/congdc)
