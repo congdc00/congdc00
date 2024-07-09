@@ -4,5 +4,5 @@ Contact me
 #️⃣ [Kaggle](https://www.kaggle.com/dinhchicong)  
 #️⃣ [Linked](https://www.linkedin.com/in/dinhchicong/)  
 #️⃣ [Facebook](https://www.facebook.com/dinhchicongf9)  
-#️⃣ [Twitter](https://twitter.com/dinhchicongf9)  
+#️⃣ [Twitter]([https://twitter.com/dinhchicongf9](https://x.com/congdc00))  
 [Huggingface](https://huggingface.co/congdc)
